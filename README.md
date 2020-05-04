@@ -10,7 +10,7 @@ The model performs well enough for the task at hand, with the limited informatio
 
 ## Sample results:
 
-Meme             |  Personal Photo
+Meme                        |  Personal Photo
 :-------------------------:|:-------------------------:
 ![meme](results/meme1.jpg)  |  ![personal-photo](results/personal1.jpg)
 ![meme](results/meme2.jpg)  |  ![personal-photo](results/personal2.jpg)
