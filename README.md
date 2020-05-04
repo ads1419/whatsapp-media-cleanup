@@ -12,8 +12,8 @@ The model performs well enough for the task at hand, with the limited informatio
 
 Meme                        |  Personal Photo
 :-------------------------:|:-------------------------:
-![meme](results/meme1.jpg)  |  ![personal-photo](results/personal1.jpg)
-![meme](results/meme2.jpg)  |  ![personal-photo](results/personal2.jpg)
+<img src="results/meme1.jpg" width="500"/>  |  <img src="results/personal1.jpg" width="500"/>
+<img src="results/meme2.jpg" width="500"/>  |  <img src="results/personal2.jpg" width="500"/>
 
 ## Todo:
 * Root mobile phone, integrate notebook with `filter-media-from-contact-name` notebook.
